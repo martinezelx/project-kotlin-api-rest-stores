@@ -33,7 +33,7 @@ Since the project uses SpringDoc OpenApi, we can see the available endpoints at 
 [http://localhost:8090/swagger-ui/index.html](http://localhost:8090/swagger-ui/index.html)
 
 [Example of the first time you access Swagger UI](./readme-resources/img/01-swagger-ui.png)
-![Screenshot](/readme-resources/img/01-swagger-ui.png)
+![Screenshot](/readme-resources/img/01-swagger-ui.PNG)
 
 ### Examples to call the endpoints
 You can use the HTTP client of your choice to call the endpoints. In the next examples I will use Postman to perform the requests.
